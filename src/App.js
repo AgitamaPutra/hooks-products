@@ -19,7 +19,9 @@ function App() {
   const filterItems = (category) => {
     //WRITE YOUR CODE
   };
-
+  const test = () => {
+    
+  }
   return (
     <main>
       <section className="menu section">
